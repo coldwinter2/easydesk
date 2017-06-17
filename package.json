@@ -1,0 +1,29 @@
+{
+  "name": "easydesk",
+  "version": "0.0.1",
+  "description": "A MVC application framework for electron.",
+  "main": "core/launcher.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coldwinter2/easydesk.git"
+  },
+  "keywords": [
+    "electron",
+    "mvc",
+    "application",
+    "framework"
+  ],
+  "author": "coldwinter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coldwinter2/easydesk/issues"
+  },
+  "homepage": "https://github.com/coldwinter2/easydesk#readme",
+  "devDependencies": {
+    "electron": "~1.6.2",
+    "gulp-android": "^1.0.0"
+  }
+}
